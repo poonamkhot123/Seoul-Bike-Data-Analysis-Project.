@@ -14,7 +14,7 @@
 - Can we predict rental demand based on weather and time?
 
 ### Dataset Overview
-Data set = SeoulBikeData (1).csv
+Data set = https://github.com/poonamkhot123/Seoul-Bike-Data-Analysis-Project./blob/d2f40d627ef516847afc49cbeb262908f9b0450b/SeoulBikeData%20(1).csv
 - **Total Rows:** 8,760 (representing hourly data for a year)
 - **Total Columns:** 14  
 - **Important Features:**
