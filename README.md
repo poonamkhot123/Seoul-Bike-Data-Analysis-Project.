@@ -26,9 +26,13 @@ Data set = https://github.com/poonamkhot123/Seoul-Bike-Data-Analysis-Project./bl
 
 
  **Chart Type:** Histogram → Shows the distribution of bike rentals.
+ 
  **Chart Type:** Line Plot → Helps visualize hourly trends
+ 
  **Chart Type:** Box Plot → Shows seasonal variations.
+ 
  **Chart Type:** Scatter Plot → Shows the correlation between temperature and rentals.
+ 
  **Chart Type:** Heatmap → Identifies relationships between variables.
 
 ### Key Insights
