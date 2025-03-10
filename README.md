@@ -43,7 +43,6 @@ Data set = https://github.com/poonamkhot123/Seoul-Bike-Data-Analysis-Project./bl
   - `pandas` → Data manipulation
   - `matplotlib` & `seaborn` → Data visualization
   - `numpy` → Numerical computations
-  - `scikit-learn` (optional) → If applying machine learning
 
 
 ### Conclusion & Recommendations
